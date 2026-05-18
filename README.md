@@ -1,4 +1,4 @@
-## Hi there 👋
+##Hi there, I'm Risky Lucky Romadhon 👋
 
 <!--
 **riskyluckyromadhon/riskyluckyromadhon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A Physics graduate passionate about Data Analytics and problem-solving through data-driven insights. Skilled in Python, SQL, Excel, and data visualization, with a strong analytical mindset developed through physics and quantitative research.
